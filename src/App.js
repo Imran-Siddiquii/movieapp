@@ -53,6 +53,7 @@ const onChangehandler=e=>{
     setIdMovie(list)
   }
   }>
+  i am the good person
         More Info
       </Button>
   </Card>
